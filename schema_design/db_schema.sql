@@ -1,3 +1,4 @@
+CREATE DATABASE movies_database WITH  OWNER = postgres;
 -- Создание отдельной схемы для контента:
 CREATE SCHEMA IF NOT EXISTS content;
 
